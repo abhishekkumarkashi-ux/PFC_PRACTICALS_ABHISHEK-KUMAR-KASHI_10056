@@ -1,4 +1,4 @@
-// Maximum of three numbers using if–else
+// abhishek kumar kashi , 10056 ,Maximum of three numbers using if–else
 
 #include <stdio.h>
 
