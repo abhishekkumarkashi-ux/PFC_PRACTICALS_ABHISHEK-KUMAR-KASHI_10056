@@ -1,4 +1,4 @@
-// Sum of all even elements of an array
+// Abhishek kumar kashi ,10056, Sum of all even elements of an array
 
 #include <stdio.h>
 
