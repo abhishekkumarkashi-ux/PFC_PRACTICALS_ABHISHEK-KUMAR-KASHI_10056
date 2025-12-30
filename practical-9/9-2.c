@@ -1,4 +1,4 @@
-// Find maximum and minimum element in an array
+// Abhishek kumar kashi , 10056 ,Find maximum and minimum element in an array
 
 #include <stdio.h>
 
