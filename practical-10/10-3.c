@@ -1,4 +1,4 @@
-//  Row wise sum of 2d array
+//  Abhishek kumar kashi , 10056, Row wise sum of 2d array
 
 #include <stdio.h>
 
