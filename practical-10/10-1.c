@@ -1,4 +1,4 @@
-// Max and min element in 2D array
+// Abhishek kumar kashi , 10056,Max and min element in 2D array
 
 #include <stdio.h>
 
