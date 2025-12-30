@@ -1,4 +1,4 @@
-// Sum of diagnol elements of 2d array
+// Abhishek kumar kashi ,10056, Sum of diagnol elements of 2d array
 
 #include <stdio.h>
 
