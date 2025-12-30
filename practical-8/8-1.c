@@ -1,4 +1,4 @@
-// Sum of digits of a number 
+// Abhishek kumar kashi , 10056 ,Sum of digits of a number 
 
 #include<stdio.h>
 int SumOfDigits(int n){
