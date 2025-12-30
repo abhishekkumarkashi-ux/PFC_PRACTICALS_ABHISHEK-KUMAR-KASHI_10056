@@ -1,4 +1,4 @@
-// Reverse an array
+// Abhishek kumar kashi , 10056, Reverse an array
 
 #include <stdio.h>
 
